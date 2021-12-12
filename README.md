@@ -1,5 +1,5 @@
 # EV3-Classroom
-This is a new tool from LEGO Education to program the EV3 Mindstorms robot (31313 and 45544). It replaces the LabVIEW tool that has been used since the release of EV3.  The EV3 Classroom is based on the MIT scratch design. Its functionality is similar with the LEGO SPIKE Prime (45678) and LEGO Robot Inventor (51515) tools.
+This is a new tool from LEGO Education to program the EV3 Mindstorms robot (31313 and 45544). It replaces the LabVIEW tool that has been used since the release of EV3.  The EV3 Classroom is based on the MIT Scratch design. Its functionality is similar with the LEGO SPIKE Prime (45678) and LEGO Robot Inventor (51515) tools.
 
 ## Amazing Maze
 This repository is for the training material used in WVPL 2022 Amazing Maze season.
